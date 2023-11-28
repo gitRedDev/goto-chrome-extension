@@ -2,7 +2,7 @@
     "name": "GOTO",
     "version": "0.0.0.1",
     "manifest_version": 3,
-    "description": "Goto any website with a single keypress",
+    "description": "Goto to {site} / move back to the previous tab",
     "permissions" : [
         "tabs",
         "storage"
