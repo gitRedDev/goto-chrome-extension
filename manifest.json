@@ -1,0 +1,31 @@
+{
+    "name": "GOTO",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "description": "Goto any website with a single keypress",
+    "permissions" : [
+        "tabs",
+        "storage"
+    ],
+    "host_permissions": [
+        "https://*/*",
+        "http://*/*"
+    ],      
+    "commands":{
+        "goto": {
+            "suggested_key" : "Alt+A",
+            "description" : "Jump to {site} / move back to the previous tab"
+        }
+    },
+    "background": {
+        "service_worker": "background_scripts/index.js",
+        "type": "module"
+    },
+    "action": {
+        "default_title": "goto",
+        "default_popup": "popup/index.html"
+    },
+    "icons": {
+        "128": "icons/icon128.png"
+    }
+}
