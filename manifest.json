@@ -13,7 +13,7 @@
     ],      
     "commands":{
         "goto": {
-            "suggested_key" : "Alt+A",
+            "suggested_key" : "Alt+W",
             "description" : "Jump to {site} / move back to the previous tab"
         }
     },

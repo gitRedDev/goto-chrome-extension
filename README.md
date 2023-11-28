@@ -18,7 +18,7 @@ That's what this extension is for! :)
 ## HOW TO USE
 - Click on the extension's icon and input the URL of the website you want to save or leave it blank to save your current tab as the target website.
 - Save your selection by clicking on the designated button.
-- Use the Alt+a shortcut to navigate to your saved website; Another keypress returns you back to your previous location.
+- Use the Alt+W shortcut to navigate to your saved website; Another keypress returns you back to your previous location.
 - Click on "Clear" to reset.
 
 ## HOW TO ADD TO BROWSER
