@@ -1,11 +1,13 @@
 
-<h1 align="center" style="display: inline;">
+<h1 align="center">
     <b> GOTO EXTENTION : </b>
 </h1>
-&nbsp &nbsp 
-<h3 style="display: inline;">Travel between any tab and your desired website with a single keypress</h3>
-<br/>
-<br/>
+
+<h3 align="center">
+    Travel between your desired website and any tab from your browser with a single keypress.
+</h3>
+
+
 
 ![alt text](screenshot.png)
 
